@@ -24,6 +24,11 @@
 ```bash
 wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Trojan_panel_web/master/trojan-web-panel.sh" && chmod +x trojan-web-panel.sh && ./trojan-web-panel.sh
 ```
+# 新的脚本
+```bash
+wget -N --no-check-certificate "https://raw.githubusercontent.com/v2aus/Trojan_panel_web/master/trojan-web-panel-new.sh" && chmod +x trojan-web-panel-new.sh && ./trojan-web-panel-new.sh
+```
+
 
  # 相关文章及视频
 
